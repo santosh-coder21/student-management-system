@@ -1,13 +1,24 @@
-# Student Management System
+# 🎓 Student Management System
 
-This is a Java-based application to manage student records.
+A Java-based application to manage student records efficiently using Object-Oriented Programming concepts.
 
-## Features
-- Add student
-- Update student
-- Delete student
+## 🚀 Features
+- Add new student details
+- Update existing records
+- Delete student data
 - View all students
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Java
 - OOP Concepts
+
+## 📂 Project Structure
+- Main.java
+- Student.java
+- StudentService.java
+
+## 📌 Purpose
+This project helps in understanding how real-world data management systems work.
+
+## 👨‍💻 Author
+Sai Santosh
